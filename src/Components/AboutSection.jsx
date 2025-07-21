@@ -139,7 +139,7 @@ const AboutSection =
               <FaLinkedin />
             </a>
             <a
-              href="https://github.com/iksanudin28"
+              href="https://github.com/iksanawaludin"
               target="_blank"
               rel="noreferrer"
               className="hover:text-black transition"
