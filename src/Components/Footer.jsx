@@ -31,7 +31,7 @@ const Footer = () => {
           <h3 className="text-sm font-semibold uppercase tracking-wider text-white mb-4">Hubungi Saya</h3>
           <ul className="text-sm text-gray-400 space-y-2">
             <li>Email: iksanawaludinn@gmail.com</li>
-            <li>Telp: +62 838 6920 7947</li>
+            <li>Telp: +62 881 8767 756</li>
           </ul>
           <div className="flex gap-4 mt-4 text-xl">
             <a href="https://www.instagram.com/isnn_udinn/profilecard/?igsh=dDZiMWF0c2l5OWFy" target="_blank" rel="noreferrer" className="hover:text-pink-500">
