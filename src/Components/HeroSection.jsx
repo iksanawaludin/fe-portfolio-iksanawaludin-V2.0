@@ -70,7 +70,7 @@ const HeroSection = () => {
           Saya percaya kejujuran dan ketekunan adalah kunci menuju keberhasilan tanpa batas.
         </p>
         <a
-          href="https://wa.me/6283869207947"
+          href="https://wa.me/628818767756"
           className="px-6 py-3 bg-sky-600 text-white rounded-lg font-medium shadow hover:bg-sky-700 transition"
         >
           Hubungi Saya
