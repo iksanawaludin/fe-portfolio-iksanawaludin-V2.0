@@ -102,7 +102,7 @@ const ContactSection = () => {
             </li>
             <li className="flex items-center gap-3">
               <FaPhoneAlt className="text-sky-600" />
-              <span>+62 838 6920 7947</span>
+              <span>+62 881 8767 756</span>
             </li>
             <li className="flex items-center gap-3">
               <FaLinkedin className="text-sky-600" />
